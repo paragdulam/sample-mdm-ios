@@ -1,1 +1,1 @@
-web: python server.py 8080
+web: python server.py ${PORT}
