@@ -5,3 +5,4 @@ urllib3==1.9.1
 virtualenv==14.0.6
 virtualenv-clone==0.2.6
 web.py==0.37
+pyOpenSSL==0.15.1
