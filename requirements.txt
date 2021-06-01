@@ -1,7 +1,7 @@
 apns==2.0.1
 APNSWrapper==0.6.1
 gunicorn==19.1.1
-urllib3==1.9.1
+urllib3==1.26.5
 virtualenv==14.0.6
 virtualenv-clone==0.2.6
 web.py==0.37
